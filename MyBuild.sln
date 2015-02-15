@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBuild", "MyBuild\MyBuild.csproj", "{9F482031-D9BC-406E-9B33-EDAA971964CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureworksModel", "AdventureworksModel\AdventureworksModel.csproj", "{D835833E-6B21-47C3-8FA7-ECDEB42FAEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesModel.DomainClasses", "DomainClasses\SalesModel.DomainClasses.csproj", "{FC2672DF-CDB6-4154-A9D4-E8FCD5BFBB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F482031-D9BC-406E-9B33-EDAA971964CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F482031-D9BC-406E-9B33-EDAA971964CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F482031-D9BC-406E-9B33-EDAA971964CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F482031-D9BC-406E-9B33-EDAA971964CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D835833E-6B21-47C3-8FA7-ECDEB42FAEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D835833E-6B21-47C3-8FA7-ECDEB42FAEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D835833E-6B21-47C3-8FA7-ECDEB42FAEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D835833E-6B21-47C3-8FA7-ECDEB42FAEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2672DF-CDB6-4154-A9D4-E8FCD5BFBB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2672DF-CDB6-4154-A9D4-E8FCD5BFBB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2672DF-CDB6-4154-A9D4-E8FCD5BFBB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2672DF-CDB6-4154-A9D4-E8FCD5BFBB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
